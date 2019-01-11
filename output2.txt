@@ -1,0 +1,15 @@
+
+Ma tran sau khi cong la: 
+12 14 16 
+18 20 22 
+24 26 28 
+
+Ma tran sau khi Tru la: 
+-10 -10 -10 
+-10 -10 -10 
+-10 -10 -10 
+
+Ma tran sau khi nhan la: 
+90 96 102 
+216 231 246 
+342 366 390 
